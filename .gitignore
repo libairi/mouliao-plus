@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+library/
+config/
+work/
+*.epub
+*.mobi
+*.azw3
+*.pdf
+*.sqlite
+*.db
